@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="row content center-align">
+<div class="row content">
     <div class="col-md-12">
         <img src="/assets/face.jpg" class="face-img" />
         <br />
