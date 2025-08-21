@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog
+title: Technical Blog
 permalink: /blog/
 includelink: true
 comment: false
