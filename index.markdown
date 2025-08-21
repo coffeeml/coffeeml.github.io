@@ -10,7 +10,7 @@ layout: default
         <h4>Hey there! I'm Saurav 👋🏽</h4>
         <p>I am a product-led solution architect and software engineer, currently into developing AI agents for every day enterprise problems and productivity.</p>
         <p>Building mostly on Python, Java, Spring and OpenAI.</p>
-        <p>I write here on my learnings and opinionated views on agentic AI and software engineering in general.</p>
+        <p>I write here on my learnings and opinionated views on Opinionated views on agentic AI, software engineering and finance in general.</p>
         <p>Proponent of API-first policy, shift-left (developer driven) testing and “you build it, you run it” mindset.</p>
         <p>Can effectively lead engineering teams, manage stakeholder expectations, cut signal from noise and prioritize really important things!</p>
         <hr />
