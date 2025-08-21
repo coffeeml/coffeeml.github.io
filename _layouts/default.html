@@ -6,15 +6,18 @@
 <body>
   <div class="container">
     <div class="row content center-align">
-      <h1><a href="/">{{ site.title }}</a></h1>
-      <p>{{ site.description }}</p>
-      <p>{% for page in site.pages %}
-        {% if page.title and page.includelink %}<a href="{{ page.url | prepend: site.baseurl }}">{{
-          page.title }}</a> | {% endif %}
-        {% endfor %} <a href="https://linkedin.com/in/sauravdey">Saurav Dey on LinkedIn</a>
-      </p>
-      <!-- 📺 <a href="https://youtube.com/@SauravFYI">@SauravFYI</a> -->
-       <!-- <p>💲<a href="/trump">Things Trump said in his second term on trade, tariff and wars</a>💲</p> -->
+      <div class="col-9">
+        <h1><a href="/">{{ site.title }}</a></h1>
+        <p>{{ site.description }}</p>
+        <p>{% for page in site.pages %}
+          {% if page.title and page.includelink %}<a href="{{ page.url | prepend: site.baseurl }}">{{
+            page.title }}</a> | {% endif %}
+          {% endfor %} <a href="https://linkedin.com/in/sauravdey">Saurav Dey on LinkedIn</a>
+        </p>
+      </div>
+      <div class="col-3">
+        <!-- 📺 <a href="https://youtube.com/@SauravFYI">@SauravFYI</a> -->
+      </div>
     </div>
     <br />
     <br />
