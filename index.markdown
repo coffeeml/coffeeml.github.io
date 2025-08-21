@@ -7,7 +7,7 @@ layout: default
         <img src="/assets/face.jpg" class="face-img" />
         <br />
         <br />
-        <h4>Hey there! I'm Saurav 👋🏽</h4>
+        <h4>Hey there! I'm Saurav👋🏽</h4>
         <p>I am a product-led solution architect and software engineer, currently into developing AI agents for every day enterprise problems and productivity.</p>
         <p>Building mostly on Python, Java, Spring and OpenAI.</p>
         <p>I write here on my learnings and opinionated views on agentic AI and software engineering in general.</p>
