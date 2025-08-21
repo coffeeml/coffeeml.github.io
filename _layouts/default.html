@@ -4,19 +4,21 @@
 {% include head.html %}
 
 <body>
-  <div class="row content center-align">
-    <h1><a href="/">{{ site.title }}</a></h1>
-    <p>{{ site.description }}</p>
-    <p>{% for page in site.pages %}
-      {% if page.title and page.includelink %}<a href="{{ page.url | prepend: site.baseurl }}">{{
-        page.title }}</a> | {% endif %}
-      {% endfor %} <a href="https://linkedin.com/in/sauravdey">Saurav Dey on LinkedIn</a>
-    </p>
-    <!-- 📺 <a href="https://youtube.com/@SauravFYI">@SauravFYI</a> -->
-     <!-- <p>💲<a href="/trump">Things Trump said in his second term on trade, tariff and wars</a>💲</p> -->
+  <div class="container">
+    <div class="row content center-align">
+      <h1><a href="/">{{ site.title }}</a></h1>
+      <p>{{ site.description }}</p>
+      <p>{% for page in site.pages %}
+        {% if page.title and page.includelink %}<a href="{{ page.url | prepend: site.baseurl }}">{{
+          page.title }}</a> | {% endif %}
+        {% endfor %} <a href="https://linkedin.com/in/sauravdey">Saurav Dey on LinkedIn</a>
+      </p>
+      <!-- 📺 <a href="https://youtube.com/@SauravFYI">@SauravFYI</a> -->
+       <!-- <p>💲<a href="/trump">Things Trump said in his second term on trade, tariff and wars</a>💲</p> -->
+    </div>
+    <br />
+    <br />
   </div>
-  <br />
-  <br />
   <div class="container">
     {{ content }}
   </div>
