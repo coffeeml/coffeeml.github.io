@@ -12,7 +12,7 @@ layout: default
         <p>Building mostly on Python, Java, Spring and OpenAI.</p>
         <p>I write here on my learnings and opinionated views on agentic AI and software engineering in general.</p>
         <p>Proponent of API-first policy, shift-left (developer driven) testing and “you build it, you run it” mindset.</p>
-        <p>Can effectively lead engineering teams, manage stakeholder expectations, cut signal from noise and prioritize really important things!</p>
+        <p>Can effectively lead engineering teams, manage stakeholder expectations, cut noise from signals and prioritize really important things!</p>
         <hr />
         <h6>Profile <i>TLDR;</i></h6>
         <p>2023 - 2025, completed postgraduation in Finance</p>
