@@ -8,6 +8,8 @@ comments: false
 
 I am collecting some awesome AI, math and related content from blogs, websites, YouTube, etc!
 
+- [Introduction to transformers by Mitesh M Khapra, IIT Madras](https://www.youtube.com/playlist?list=PLZ2ps__7DhBbaMNZoyW2Hizl8DG6ikkjo)
+
 - [Local RAG from scratch by Daniel Bourke](https://www.youtube.com/watch?v=qN_2fnOPY-M)
 
 - [Deep research from scratch, by the LangChain folks!](https://github.com/langchain-ai/deep_research_from_scratch)
@@ -53,3 +55,9 @@ I am collecting some awesome AI, math and related content from blogs, websites, 
 - [Linear Algebra - MIT OpenCourseWare](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
 
 - [Game Theory - Yale](https://www.youtube.com/watch?v=M3oWYHYoBvk)
+
+***
+
+Not AI:
+
+- [CMU Database Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXja3hgmuwhf89qboV1kOxMx7)
