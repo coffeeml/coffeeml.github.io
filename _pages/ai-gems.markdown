@@ -32,6 +32,8 @@ I am collecting some awesome AI, math and related content from blogs, websites, 
 
 - [Deep Generative Models by Prathosh AP, Indian Institute of Science, Bangalore](https://www.youtube.com/watch?v=dNJsaX0C1fg&list=PLL1s8qiaGy0LwIajdxKZr_FRL7KZeQK9r&index=34)
 
+- [Essential Mathematics for Machine Learning from IIT Roorkee](https://www.youtube.com/watch?v=JO9jNe6BemE&list=PLLy_2iUCG87D1CXFxE-SxCFZUiJzQ3IvE)
+
 - [LLM Agents MOOC - Berkley RDI Center](https://www.youtube.com/playlist?list=PLS01nW3RtgopsNLeM936V4TNSsvvVglLc)
 
 - [Building Large Language Models - Stanford Online](https://www.youtube.com/watch?v=9vM4p9NN0Ts)
