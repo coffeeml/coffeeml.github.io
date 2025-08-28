@@ -2,7 +2,7 @@
 layout: post
 comments: false
 title:  "Getting bearer tokens from Azure Entra app registration and verifying them"
-excerpt: "API keys are like disasters waiting to happen. Someone might share it on email, chat or write it down, meaning the key may get compromised. Then, you end up with a big bill because of a compromised key."
+excerpt: "When external applications invoke an API on your application, they need to obtain and send a bearer token. Then you need to verify the bearer token and allow the API call. All of these can be easily done using Azure Entra and app registrations. Azure Entra needs to identify your app and act as the auth provider, can produce tokens for external apps on your behalf and help you verify the token sent over by the external app during API calls."
 date:   2025-07-27 10:00:00
 ---
 
