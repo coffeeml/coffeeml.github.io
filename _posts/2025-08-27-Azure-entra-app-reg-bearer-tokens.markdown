@@ -2,13 +2,13 @@
 layout: post
 comments: false
 title:  "Getting bearer tokens from Azure Entra app registration and verifying them"
-excerpt: "When external applications invoke an API on your application, they need to obtain and send a bearer token. Then you need to verify the bearer token and allow the API call. All of these can be easily done using Azure Entra and app registrations. Azure Entra needs to identify your app and act as the auth provider, can produce tokens for external apps on your behalf and help you verify the token sent over by the external app during API calls."
+excerpt: "When external applications invoke an API on your application, they need to obtain and send as access token as bearer token. Then you need to verify the bearer token and allow the API call. All of these can be easily done using Azure Entra and app registrations. Azure Entra needs to identify your app and act as the auth provider, can produce tokens for external apps on your behalf and help you verify the token sent over by the external app during API calls."
 date:   2025-07-27 10:00:00
 ---
 
 You have an application and you want Azure Entra to manage your application security - Both user authN/authZ (not covered in this post) and application authN (covered in this post).
 
-Application authentication meaning, your application exposes APIs to other apps and when those other apps consume APIs in your application, they need to obtain and send a **bearer token** which you then need to verify.
+Application authentication meaning, your application exposes APIs to other apps and when those other apps consume APIs in your application, they need to obtain and send an `access_token` as **bearer token** which you then need to verify.
 
 How do you set this up?
 
@@ -52,9 +52,9 @@ client_secret=wwww
 scope=api://zzzz/.default
 ```
 
-Same way, by invoking this API, the external consumer will get a `bearer_token` (JWT).
+Same way, by invoking this API, the external consumer will get an `access_token` (JWT).
 
-Using the **bearer token** as `Bearer cccc` in `Authorization` header, the external consumer will make API calls to your application.
+Using the `access_token` as `Bearer cccc` in `Authorization` header, the external consumer will make API calls to your application.
 
 ### How do you verify the token
 
@@ -122,7 +122,7 @@ exports.checkAuthToken = async (req, res, next) => {
 
 **Steps**:
 
-1. Middleware extracts the `bearer_token` (JWT) from header
+1. Middleware extracts the **bearer token** (JWT) from header
 2. Decodes the JWT using jsonwebtoken library
 3. Identifies key ID `kid` and algorithm `alg` from JWT header
 4. Gets all public keys for this authentication server (authentication server is Entra/app registration set up for current environment)
@@ -132,3 +132,10 @@ exports.checkAuthToken = async (req, res, next) => {
 7. Verify using well formed signed key and algorithm
 8. Verify token is not expired and audience match (Audience match is not mandatory, added just as additional check)
 
+**Note**:
+
+This article shows how to establish application to application integration using `access_tokens` from Azure Entra. 
+This method doesn't have any user credentials involved in this.
+
+If you want to enstablish an auth flow that involves user credentials, then you need `id_tokens`. 
+In order to get an `id_token` you need to develop a user auth flow like MSAL or OIDC that will help you get an `id_token`.
