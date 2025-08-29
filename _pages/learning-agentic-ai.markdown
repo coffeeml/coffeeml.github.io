@@ -36,7 +36,7 @@ I followed this three step process myself.
 <span class="important">Step 1: Be an efficient software craftsman</span>
 <br />
 <br />
-✅ <a href="/2025/08/19/what-will-benefit-from-genai-and-take-off/">Stop thinking that AI is the answer to all your problems</a>!<br />
+✅ <a href="/2025/08/19/what-will-benefit-from-genai-and-takeoff/">Stop thinking that AI is the answer to all your problems</a>!<br />
 ✅ Be part of, or develop an excellent engineering culture<br />
 ✅ Collaborate, experiment and learn; understand what others are doing<br />
 ✅ Learn Python, async programming, API development and one database<br/>
