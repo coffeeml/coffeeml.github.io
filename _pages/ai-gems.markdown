@@ -8,7 +8,7 @@ comments: false
 
 I am collecting some awesome AI, math and related content from blogs, websites, YouTube, etc!
 
-- [Generative AI in a nutshell](https://www.youtube.com/watch?v=2IK3DFHRFfw&t=585s)
+- [Generative AI in a nutshell by Henrik Kniberg](https://www.youtube.com/watch?v=2IK3DFHRFfw&t=585s)
   
 - [StatQuest: Statistics Fundamentals](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=1)
   
