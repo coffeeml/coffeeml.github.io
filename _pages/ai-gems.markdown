@@ -8,6 +8,8 @@ comments: false
 
 I am collecting some awesome AI, math and related content from blogs, websites, YouTube, etc!
 
+- [StatQuest: Statistics Fundamentals](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=1)
+  
 - [Introduction to transformers by Mitesh M Khapra, IIT Madras](https://www.youtube.com/playlist?list=PLZ2ps__7DhBbaMNZoyW2Hizl8DG6ikkjo)
 
 - [Local RAG from scratch by Daniel Bourke](https://www.youtube.com/watch?v=qN_2fnOPY-M)
