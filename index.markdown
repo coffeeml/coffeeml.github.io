@@ -9,7 +9,8 @@ layout: default
         <br />
         <h4>Hey there! I'm Saurav 👋🏽</h4>
         <p>I am a product-led solution architect and software engineer, currently into developing AI agents for every day enterprise problems and productivity.</p>
-        <p>Building mostly on Python, OpenAI, LangGraph and various agent SDKs.</p>
+        <p>Building mostly on Python, OpenAI, LangGraph and agent SDKs.</p>
+        <p>Spent more than a decade earlier, building B2B (enterprise) software using Java, Spring, Node.js, Kafka, Redis, ELK and Postgres.</p>
         <p>I write here on my learnings and opinionated views on agentic AI and software engineering in general.</p>
         <p>Proponent of API-first policy, shift-left (developer driven) testing and “you build it, you run it” mindset.</p>
         <p>Can effectively lead engineering teams, manage stakeholder expectations, cut noise from signals and prioritize really important things!</p>
