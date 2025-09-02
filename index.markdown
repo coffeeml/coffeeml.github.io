@@ -8,7 +8,8 @@ layout: default
         <br />
         <br />
         <h4>Hey there! I'm Saurav 👋🏽</h4>
-        <p>I am a product-led solution architect and software engineer, currently into developing AI agents for every day enterprise problems and productivity.</p>
+        <p>I am a product-led solution architect and software engineer.</p>
+        <p>Currently into developing AI agents and multi-agent workflows for every day enterprise problems and productivity.</p>
         <p>I write here on my learnings, experiences and opinionated views on agentic AI and software engineering.</p>
         <p>Proponent of API-first policy, shift-left (developer driven) testing and “you build it, you run it” mindset.</p>
         <p>Can effectively lead engineering teams, manage stakeholder expectations, cut noise from signals and prioritize really important things!</p>
