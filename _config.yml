@@ -1,11 +1,11 @@
 # Site settings
-title: agentloop
+title: saurav dey
 email: 
 description: Opinionated views on agentic AI and software engineering.
 baseurl: ""
-url: "https://agentloopsoftware.github.io"
+url: "https://deysaurav.github.io"
 linkedin_username: 
-github_username:  
+github_username:  rxrav
 twitter_username:
 
 # Build settings
