@@ -8,33 +8,33 @@ comment: false
 
 ## Checklist
 
-✅ Nifty 50 website
-✅ Moneycontrol
-✅ Screener.in
+✅ Nifty 50 website <br />
+✅ Moneycontrol <br />
+✅ Screener.in <br />
 
-### News in last 24-48 hours
+### News in last 24-48 hours <br />
 
-✅ Geo-political news
-✅ Domestic political news
-✅ Fed, IMF and WB updates
-✅ RBI, domestic bank updates
-✅ Any surprises in Gold/Silver/Oil/prices?
-✅ Conflicts and wars?
-✅ Natural calamities
-✅ Changes in export/import from/to IND to RoW
-✅ New discoveries?
-✅ Announcements in sectors and impact on other sector(s) 
-✅ Tariffs, taxes, other constraints
-✅ FnO expiry?
-✅ Any important dates nearby?
-✅ Any announcements by any world/domestic leaders?
-✅ Mergers and acquisitions
-✅ Announcements by CXOs (new market, opportunities, services, products, etc)
-✅ Leadership/management changes
-✅ Fraud cases??? (Malpractices in companies)
-✅ Do your own due-diligence
-✅ Updates on companies by credit rating agencies (CRISIL)
-✅ Updates on markets, changes in market ratings, ease of doing business, etc (Moody, S&P, CapitalIQ, etc)
-✅ Bond pricing
-	- Spread research
-	- Interest rates, inflation
+✅ Geo-political news <br />
+✅ Domestic political news <br />
+✅ Fed, IMF and WB updates <br />
+✅ RBI, domestic bank updates <br />
+✅ Any surprises in Gold/Silver/Oil/prices? <br />
+✅ Conflicts and wars? <br />
+✅ Natural calamities <br />
+✅ Changes in export/import from/to IND to RoW <br />
+✅ New discoveries? <br />
+✅ Announcements in sectors and impact on other sector(s) <br />
+✅ Tariffs, taxes, other constraints <br />
+✅ FnO expiry? <br />
+✅ Any important dates nearby? <br />
+✅ Any announcements by any world/domestic leaders? <br />
+✅ Mergers and acquisitions <br />
+✅ Announcements by CXOs (new market, opportunities, services, products, etc) <br />
+✅ Leadership/management changes <br />
+✅ Fraud cases??? (Malpractices in companies) <br />
+✅ Do your own due-diligence <br />
+✅ Updates on companies by credit rating agencies (CRISIL) <br />
+✅ Updates on markets, changes in market ratings, ease of doing business, etc (Moody, S&P, CapitalIQ, etc) <br />
+✅ Bond pricing <br />
+✅ Spread research <br />
+✅ Interest rates, inflation
