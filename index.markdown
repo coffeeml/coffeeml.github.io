@@ -14,7 +14,7 @@ layout: default
         <p>Proponent of API-first policy, shift-left (developer driven) testing and “you build it, you run it” mindset.</p>
         <p>Can effectively lead engineering teams, manage stakeholder expectations, cut noise from signals and prioritize really important things!</p>
         <hr />
-        <h6>Profile <i>TLDR;</i></h6>
+        <h4>Profile <i>TLDR;</i></h4>
         <p>2025, completed a program on Reinforcement Learning from IISc Bangalore (CCE)</p>
         <p>2023 - 2025, completed postgraduation in Finance</p>
         <p>2016 - present, working at Ericsson, currently as Generative AI architect</p>
