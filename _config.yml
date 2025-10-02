@@ -1,11 +1,11 @@
 # Site settings
-title: saurav dey
+title: coffee ml ☕
 email: 
 description: Opinionated views on agentic AI and software engineering.
 baseurl: ""
-url: "https://deysaurav.github.io"
+url: "https://coffeeml.github.io"
 linkedin_username: 
-github_username:  rxrav
+github_username:  coffeeml
 twitter_username:
 
 # Build settings
