@@ -6,13 +6,13 @@ includelink: false
 comment: false
 ---
 
-## Checklist
+#### Checklist
 
 ✅ Nifty 50 website <br />
 ✅ Moneycontrol <br />
 ✅ Screener.in <br />
 
-### News in last 24-48 hours <br />
+#### News in last 24-48 hours <br />
 
 ✅ Geo-political news <br />
 ✅ Domestic political news <br />
