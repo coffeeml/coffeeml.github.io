@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Learning agentic AI
+title: Agentic AI
 permalink: /agentic-ai/
 includelink: true
 comments: false
