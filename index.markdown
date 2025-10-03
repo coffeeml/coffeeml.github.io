@@ -8,7 +8,7 @@ layout: default
         <br />
         <br />
         <h4>Hey there! I'm Saurav 👋🏽</h4>
-        <p>I am a solution architect and software engineer in agentic AI.</p>
+        <p>I am a solution architect and software engineer in agentic AI and backend engineering.</p>
         <p>I write here on my experiences and opinionated views on things I'm interested in: Mostly AI, finance and software engineering.</p>
         <p>I am into developing AI agents and multi-agent workflows for every day enterprise problems and productivity.</p>
         <p>Proponent of API-first policy, shift-left (developer driven) testing and “you build it, you run it” mindset.</p>
