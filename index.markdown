@@ -15,11 +15,11 @@ layout: default
         <p>Can effectively lead engineering teams, manage stakeholder expectations, cut noise from signals and prioritize really important things!</p>
         <hr />
         <h4>Profile <i>TLDR;</i></h4>
-        <p>2025, completed a program on Reinforcement Learning from IISc Bangalore (CCE)</p>
-        <p>2023 - 2025, completed postgraduation in Finance</p>
-        <p>2016 - present, working at Ericsson, currently as Generative AI architect</p>
-        <p>2013 - 2016, worked at TCS as integration specialist</p>
-        <p>2009 - 2013, completed BTech in Computer Science & Engineering</p>
+        <p>2016 - present, working at Ericsson, currently as Generative AI architect.</p>
+        <p>2025, completed a program on Reinforcement Learning from IISc Bangalore (CCE).</p>
+        <p>2023 - 2025, completed postgraduation in Finance.</p>
+        <p>2013 - 2016, worked at TCS as integration specialist.</p>
+        <p>2009 - 2013, completed BTech in Computer Science & Engineering.</p>
         <br />
     </div>
 </div>
