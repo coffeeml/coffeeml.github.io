@@ -2,11 +2,13 @@
 layout: post
 comments: false
 title:  "Getting bearer tokens from Azure Entra app registration and verifying them"
-excerpt: "When external applications invoke an API on your application, they need to obtain and send as access token as bearer token. Then you need to verify the bearer token and allow the API call. All of these can be easily done using Azure Entra and app registrations. Azure Entra needs to identify your app and act as the auth provider, can produce tokens for external apps on your behalf and help you verify the token sent over by the external app during API calls."
+excerpt: "When external applications invoke an API on your application, they need to obtain and send as access token as bearer token. Then you need to verify the bearer token and allow the API call. All of these can be easily done using Azure Entra and app registrations."
 date:   2025-07-27 10:00:00
 ---
 
 You have an application and you want Azure Entra to manage your application security - Both user authN/authZ (not covered in this post) and application authN (covered in this post).
+
+Azure Entra needs to identify your app and act as the auth provider, can produce tokens for external apps on your behalf and help you verify the token sent over by the external app during API calls.
 
 Application authentication meaning, your application exposes APIs to other apps and when those other apps consume APIs in your application, they need to obtain and send an `access_token` as **bearer token** which you then need to verify.
 
