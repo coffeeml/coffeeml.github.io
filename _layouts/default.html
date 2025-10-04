@@ -7,7 +7,7 @@
   <div class="container">
     <div class="row content">
       <div class="col-9">
-        <h1 class="design-font"><a href="/">{{ site.title }}</a></h1>
+        <h1><a href="/">{{ site.title }}</a></h1>
         <p>{{ site.description }}</p>
         <p>{% for page in site.pages %}
           {% if page.title and page.includelink %}<a href="{{ page.url | prepend: site.baseurl }}">{{
