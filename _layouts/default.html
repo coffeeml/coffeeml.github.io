@@ -12,7 +12,7 @@
         <p>{% for page in site.pages %}
           {% if page.title and page.includelink %}<a href="{{ page.url | prepend: site.baseurl }}">{{
             page.title }}</a> | {% endif %} 
-          {% endfor %} 🌏
+          {% endfor %} <a href="{{ site.baseurl }}">Home</a>
         </p>
       </div>
       <div class="col-3"></div>
