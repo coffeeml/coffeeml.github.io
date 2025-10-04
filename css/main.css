@@ -1,9 +1,10 @@
 body {
-/* font-family: "Domine", serif;
+font-family: "Domine", serif;
+  font-family: "Merriweather Sans", sans-serif;
   font-optical-sizing: auto;
   font-weight: 500;
   font-style: normal;
-} */
+}
 
 .center-align {
     text-align: center;
