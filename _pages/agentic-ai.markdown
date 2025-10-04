@@ -50,18 +50,20 @@ I followed this three step process myself.
 ✅ Start small; build a simple chatbot and experiment with different prompt techniques<br />
 ✅ Learn vector databases, tokens, text embedding, chunks, etc<br />
 ✅ <a href="https://www.youtube.com/watch?v=qN_2fnOPY-M">Build a RAG workflow</a>, connect it with the chatbot, add memory - Try <a href="https://www.ibm.com/think/topics/agentic-rag">Agentic RAG</a>!<br />
-✅ Learn different RAG techniques and tool usage with LLMs<br />
+✅ Learn different RAG techniques and simple tool usage with LLMs<br />
 ✅ Understand the economics of cloud computing
 <br />
 <br />
 <span class="important">Step 3: Develop agents</span>
 <br />
 <br />
-✅ Build a system with two agents that interact with each other, define agent goals<br />
+✅ Build a system with two agents that interact with each other, define agent goals<br />\
+✅ Optimize tokens by engineering agent context!<br />
 ✅ Learn structured inputs, structured outputs and guardrails<br />
 ✅ Learn agentic workflow patterns and orchestration, add multiple agents<br />
 ✅ Provide tools to the agents, learn <a href="/2025/07/04/simple-mcp-server-configured-with-claude-desktop/">Model Context Protocol</a><br />
-✅ Finally, learn logging, monitoring, LLMOps and deployment
+✅ Logging, monitoring, LLMOps and deployment<br />
+✅ Dive deep into evals.
 <br />
 <br />
 <span class="important">Btw, did you look at your data?</span> 
