@@ -11,7 +11,7 @@ body {
 .content {
     padding-top: 0.4em;
     padding-bottom: 0.8em;
-    border-bottom: 0.1em solid #ccc;
+    /* border-bottom: 0.1em solid #ccc; */
 }
 
 .page-title {
