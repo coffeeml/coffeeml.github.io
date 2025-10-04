@@ -57,7 +57,7 @@ I followed this three step process myself.
 <span class="important">Step 3: Develop agents</span>
 <br />
 <br />
-✅ Build a system with two agents that interact with each other, define agent goals<br />\
+✅ Build a system with two agents that interact with each other, define agent goals<br />
 ✅ Optimize tokens by engineering agent context!<br />
 ✅ Learn structured inputs, structured outputs and guardrails<br />
 ✅ Learn agentic workflow patterns and orchestration, add multiple agents<br />
